@@ -1,7 +1,0 @@
-Version control :
-		  Version control is one which controls version of a software. There many types of version control.
-		  Some of version controllers are git , subversion, mercurial.
-		  And version controllers are mainly two types
-		  	1. Centralised version control
-			2. Distributed version control
-		Git is the Distributed version control. The Course in Udacity is going to give a brief description about control version of git. 
