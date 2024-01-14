@@ -6,3 +6,8 @@ THe reposiotry is about to create the JDBC connection.
 5. execte the query
 6. process the reslut
 7. close the connection.
+
+boolean result = statement.execute(sql)
+
+if sql is select command it returns true value
+for anyother commands it return falsevalue
