@@ -20,7 +20,7 @@ public class DeleteValue {
 		//creating the statement
 		Statement statement = connect.createStatement();
 		
-		//create query
+
 		String sql = "DELETE FROM studentinfo where id = 3";
 		int rowAffected = statement.executeUpdate(sql);
 		
